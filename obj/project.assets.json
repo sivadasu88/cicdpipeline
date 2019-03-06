@@ -12077,11 +12077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practice\\DevOps\\CICDPipeline\\cicdpipeline\\cicdpipeline1\\cicdpipeline1.csproj",
+      "projectUniqueName": "D:\\Practice\\VSCode\\cicdpipeline\\cicdpipeline1.csproj",
       "projectName": "cicdpipeline1",
-      "projectPath": "D:\\Practice\\DevOps\\CICDPipeline\\cicdpipeline\\cicdpipeline1\\cicdpipeline1.csproj",
+      "projectPath": "D:\\Practice\\VSCode\\cicdpipeline\\cicdpipeline1.csproj",
       "packagesPath": "C:\\Users\\Ayaan\\.nuget\\packages\\",
-      "outputPath": "D:\\Practice\\DevOps\\CICDPipeline\\cicdpipeline\\cicdpipeline1\\obj\\",
+      "outputPath": "D:\\Practice\\VSCode\\cicdpipeline\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
