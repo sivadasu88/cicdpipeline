@@ -25,6 +25,7 @@ namespace cicdpipeline1.Controllers
         }
 
         // POST api/values
+        //sravani test
         [HttpPost]
         public void Post([FromBody] string value)
         {
